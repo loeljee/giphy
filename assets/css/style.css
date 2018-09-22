@@ -1,0 +1,44 @@
+button, div, form, input {
+    margin: 5px;
+}
+
+.jumbotron{
+    text-align: center;
+    padding: 10px;
+    background: url(../images/sky.jpeg)no-repeat center;
+    background-size: cover;
+}
+
+h1{
+    padding: 0px;
+    margin: 0px;
+}
+
+img {
+	width: 220px;
+    height: 220px;
+    border: solid 2px black;
+}
+
+.btn-default {
+    color: black;
+    background: tan;
+    border: solid 2px black;
+}
+
+body {
+	background: url(../images/road.jpg)no-repeat center center fixed;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    background-size: cover;
+}
+
+p{
+    color: black;
+}
+
+.holder {
+    float: left;
+}
+
+
