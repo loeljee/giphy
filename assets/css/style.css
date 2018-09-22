@@ -15,8 +15,8 @@ h1{
 }
 
 img {
-	width: 220px;
-    height: 220px;
+	width: 200px;
+    height: 200px;
     border: solid 2px black;
 }
 
@@ -35,10 +35,15 @@ body {
 
 p{
     color: black;
+    text-align: center;
 }
 
 .holder {
     float: left;
+}
+
+.container {
+    margin: 0 auto;
 }
 
 
